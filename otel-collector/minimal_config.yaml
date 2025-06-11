@@ -1,0 +1,55 @@
+# To limit exposure to denial of service attacks, change the host in endpoints below from 0.0.0.0 to a specific network interface.
+# See https://github.com/open-telemetry/opentelemetry-collector/blob/main/docs/security-best-practices.md#safeguards-against-denial-of-service-attacks
+
+extensions:
+  health_check:
+  pprof:
+    endpoint: 0.0.0.0:1777
+  zpages:
+    endpoint: 0.0.0.0:55679
+
+receivers:
+  otlp:
+    protocols:
+      grpc:
+        endpoint: 0.0.0.0:4317
+      http:
+        endpoint: 0.0.0.0:4318
+        
+        
+
+processors:
+  batch:
+
+
+exporters:
+  debug:
+    verbosity: detailed
+  file/traces:
+    path: ./otel-collector/outputs/traces.json
+  file/metrics:
+    path: ./otel-collector/outputs/metrics.json
+  file/logs:
+    path: ./otel-collector/outputs/logs.json
+
+service:
+
+  pipelines:
+
+    traces:
+      receivers: [otlp]
+      processors: [batch]
+      exporters: [file/traces]
+
+    metrics:
+      receivers: [otlp]
+      processors: [batch]
+      exporters: [file/metrics]
+
+    logs:
+      receivers: [otlp]
+      processors: [batch]
+      exporters: [file/logs]
+      
+
+  extensions: [health_check, pprof, zpages]

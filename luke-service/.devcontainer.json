@@ -1,0 +1,30 @@
+{
+    "name": "luke-service",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+        "ghcr.io/devcontainers/features/java:1": {
+            "version": "21",
+            "jdkDistro": "graalce",
+            "installMaven": "true",
+            "mavenVersion": "3.9.5",
+            "installGradle": "false"
+        },
+        "ghcr.io/devcontainers-contrib/features/quarkus-sdkman:2": {
+            "version": "3.15.2",
+            "jdkVersion": "none"
+        }
+    },
+    "forwardPorts": [8080],
+    "customizations": {
+        "vscode": {
+            "settings": {},
+            "extensions": [
+                "redhat.vscode-quarkus",
+                "alphabotsec.vscode-eclipse-keybindings",
+                "asciidoctor.asciidoctor-vscode",
+                "jebbs.plantuml",
+                "vscjava.vscode-java-pack"
+            ]
+        }
+    }
+}
