@@ -1,5 +1,11 @@
 package org.kore.jakartaee.otel;
 
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+import org.eclipse.microprofile.rest.client.inject.RestClient;
+
+import jakarta.inject.Inject;
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
 import jakarta.ws.rs.Produces;
