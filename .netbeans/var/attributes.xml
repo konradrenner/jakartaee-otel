@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="|home|koni|.m2|repository|jakarta|ws|rs|jakarta.ws.rs-api|3.1.0|jakarta.ws.rs-api-3.1.0-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b597419030000787077080000019762de1f7278"/>
+    </fileobject>
+    <fileobject name="|home|koni|.m2|repository|org|aesh|aesh|2.7|aesh-2.7-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b597419030000787077080000019762de2d6478"/>
+    </fileobject>
+    <fileobject name="|home|koni|.m2|repository|org|apache|httpcomponents|httpclient|4.5.14|httpclient-4.5.14-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b597419030000787077080000019762de2e4178"/>
+    </fileobject>
+    <fileobject name="|home|koni|.m2|repository|org|apache|httpcomponents|httpcore|4.4.16|httpcore-4.4.16-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b597419030000787077080000019762de2e5278"/>
+    </fileobject>
+    <fileobject name="|home|koni|.m2|repository|org|apiguardian|apiguardian-api|1.1.2|apiguardian-api-1.1.2-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b597419030000787077080000019762de2e2578"/>
+    </fileobject>
+    <fileobject name="|home|koni|.m2|repository|org|opentest4j|opentest4j|1.2.0|opentest4j-1.2.0-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b597419030000787077080000019762de2f9d78"/>
+    </fileobject>
+    <fileobject name="|home|koni|Entwicklung|jakartaee-otel|.netbeans|var|cache|mavencachedirs|1540556915|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/home/koni/Entwicklung/jakartaee-otel/slides/"/>
+    </fileobject>
+    <fileobject name="|home|koni|Entwicklung|jakartaee-otel|.netbeans|var|cache|mavencachedirs|1668616796|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/home/koni/Entwicklung/jakartaee-otel/luke-service/"/>
+    </fileobject>
+    <fileobject name="|home|koni|Entwicklung|jakartaee-otel|.netbeans|var|cache|mavencachedirs|222245053|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/home/koni/Entwicklung/jakartaee-otel/vader-service/"/>
+    </fileobject>
+    <fileobject name="|home|koni|Entwicklung|jakartaee-otel|.netbeans|var|cache|mavencachedirs|232853831|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/home/koni/Entwicklung/Tigital/buchhandlung/"/>
+    </fileobject>
+    <fileobject name="|home|koni|Entwicklung|jakartaee-otel|.netbeans|var|cache|mavencachedirs|654904140|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/home/koni/Entwicklung/FullStackS/demos/publishing-company/library-service/"/>
+    </fileobject>
+    <fileobject name="|home|koni|Entwicklung|jakartaee-otel|.netbeans|var|cache|mavencachedirs|660674882|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/home/koni/Entwicklung/FullStackS/demos/publishing-company/author-service/"/>
+    </fileobject>
+    <fileobject name="|home|koni|Entwicklung|jakartaee-otel|luke-service">
+        <attr name="AuxilaryConfiguration" stringvalue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>\u000a&lt;project-private>\u000a    &lt;editor-bookmarks xmlns=&quot;http://www.netbeans.org/ns/editor-bookmarks/2&quot; lastBookmarkId=&quot;0&quot;/>\u000a    &lt;open-files xmlns=&quot;http://www.netbeans.org/ns/projectui-open-files/2&quot;>\u000a        &lt;group/>\u000a    &lt;/open-files>\u000a&lt;/project-private>\u000a"/>
+    </fileobject>
+    <fileobject name="|home|koni|Entwicklung|jakartaee-otel|slides">
+        <attr name="AuxilaryConfiguration" stringvalue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>\u000a&lt;project-private>\u000a    &lt;editor-bookmarks xmlns=&quot;http://www.netbeans.org/ns/editor-bookmarks/2&quot; lastBookmarkId=&quot;0&quot;/>\u000a    &lt;open-files xmlns=&quot;http://www.netbeans.org/ns/projectui-open-files/2&quot;>\u000a        &lt;group/>\u000a    &lt;/open-files>\u000a&lt;/project-private>\u000a"/>
+    </fileobject>
+    <fileobject name="|home|koni|Entwicklung|jakartaee-otel|vader-service">
+        <attr name="AuxilaryConfiguration" stringvalue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>\u000a&lt;project-private>\u000a    &lt;editor-bookmarks xmlns=&quot;http://www.netbeans.org/ns/editor-bookmarks/2&quot; lastBookmarkId=&quot;0&quot;/>\u000a    &lt;open-files xmlns=&quot;http://www.netbeans.org/ns/projectui-open-files/2&quot;>\u000a        &lt;group/>\u000a    &lt;/open-files>\u000a&lt;/project-private>\u000a"/>
+    </fileobject>
+    <fileobject name="|usr|lib|jvm|java-17-openjdk-amd64">
+        <attr name="J2SEPlatform.displayName" stringvalue="JDK 17 (System)"/>
+    </fileobject>
+</attributes>

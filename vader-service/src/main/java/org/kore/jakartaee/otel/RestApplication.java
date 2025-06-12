@@ -1,9 +1,9 @@
-package org.kore.jakartaee.otel.rest;
+package org.kore.jakartaee.otel;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;
 
-@ApplicationPath("/api")
+@ApplicationPath("/")
 public class RestApplication extends Application {
 
 }

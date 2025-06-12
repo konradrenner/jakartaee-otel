@@ -1,0 +1,268 @@
+Jun 12, 2025 8:48:52 AM org.netbeans.updater.UpdaterFrame <clinit>
+INFO: Entering updater.jar .................................................................... 
+Jun 12, 2025 8:48:53 AM org.netbeans.updater.ModuleUpdater deleteInstallLater
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/install_later.xml deleted.
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: 780: Unpacking org-netbeans-modules-plantumlnb.nbm
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/config/Modules/org-netbeans-modules-plantumlnb.xml to /home/koni/Entwicklung/jakartaee-otel/.netbeans/config/Modules/org-netbeans-modules-plantumlnb.xml
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/commons-io/commons-io.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/commons-io/commons-io.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/commons-logging/commons-logging.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/commons-logging/commons-logging.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/javax-annotation/javax.annotation-api.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/javax-annotation/javax.annotation-api.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml-depend/plantuml-dependency-cli.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml-depend/plantuml-dependency-cli.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml-depend/plantuml-dependency-common-cli.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml-depend/plantuml-dependency-common-cli.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml-depend/plantuml-dependency-common.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml-depend/plantuml-dependency-common.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml/plantuml.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml/plantuml.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-ant/ant-launcher.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-ant/ant-launcher.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-ant/ant.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-ant/ant.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-anim.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-anim.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-awt-util.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-awt-util.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-bridge.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-bridge.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-constants.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-constants.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-css.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-css.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-dom.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-dom.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-ext.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-ext.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-gui-util.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-gui-util.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-gvt.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-gvt.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-i18n.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-i18n.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-parser.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-parser.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-script.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-script.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-shared-resources.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-shared-resources.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-svg-dom.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-svg-dom.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-swing.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-swing.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-util.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-util.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-xml.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-xml.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/xmlgraphics-commons.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/xmlgraphics-commons.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/xml-apis/xml-apis-ext.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/xml-apis/xml-apis-ext.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/xml-apis/xml-apis.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/xml-apis/xml-apis.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm:netbeans/modules/org-netbeans-modules-plantumlnb.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/org-netbeans-modules-plantumlnb.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-modules-plantumlnb.nbm deleted.
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.XMLUtil write
+INFO: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@6d0dcfbf
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.UpdateTracking$Module write
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update_tracking/org-netbeans-modules-plantumlnb.xml modified.
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: 780: Unpacking io-github-moacirrf-nb-java-decompiler.nbm
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/io-github-moacirrf-nb-java-decompiler.nbm:netbeans/config/Modules/io-github-moacirrf-nb-java-decompiler.xml to /home/koni/Entwicklung/jakartaee-otel/.netbeans/config/Modules/io-github-moacirrf-nb-java-decompiler.xml
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/io-github-moacirrf-nb-java-decompiler.nbm:netbeans/modules/ext/io.github.moacirrf.nb-java-decompiler/com-machinezoo-noexception/noexception.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/io.github.moacirrf.nb-java-decompiler/com-machinezoo-noexception/noexception.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/io-github-moacirrf-nb-java-decompiler.nbm:netbeans/modules/ext/io.github.moacirrf.nb-java-decompiler/com-machinezoo-stagean/stagean.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/io.github.moacirrf.nb-java-decompiler/com-machinezoo-stagean/stagean.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/io-github-moacirrf-nb-java-decompiler.nbm:netbeans/modules/ext/io.github.moacirrf.nb-java-decompiler/org-benf/cfr.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/io.github.moacirrf.nb-java-decompiler/org-benf/cfr.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/io-github-moacirrf-nb-java-decompiler.nbm:netbeans/modules/ext/io.github.moacirrf.nb-java-decompiler/org-slf4j/slf4j-api.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/io.github.moacirrf.nb-java-decompiler/org-slf4j/slf4j-api.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/io-github-moacirrf-nb-java-decompiler.nbm:netbeans/modules/io-github-moacirrf-nb-java-decompiler.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/io-github-moacirrf-nb-java-decompiler.jar
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/io-github-moacirrf-nb-java-decompiler.nbm:netbeans/update_tracking/io-github-moacirrf-nb-java-decompiler.xml to /home/koni/Entwicklung/jakartaee-otel/.netbeans/update_tracking/io-github-moacirrf-nb-java-decompiler.xml
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/io-github-moacirrf-nb-java-decompiler.nbm deleted.
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.XMLUtil write
+INFO: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@76fa3cdc
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.UpdateTracking$Module write
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update_tracking/io-github-moacirrf-nb-java-decompiler.xml modified.
+Jun 12, 2025 8:48:54 AM org.netbeans.updater.ModuleUpdater deleteAdditionalInfo
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/additional_information.xml deleted.
+Jun 12, 2025 10:31:43 AM org.netbeans.updater.UpdaterFrame <clinit>
+INFO: Entering updater.jar .................................................................... 
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: 780: Unpacking org-netbeans-libs-javafx-linux.nbm
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-libs-javafx-linux.nbm:netbeans/config/Modules/org-netbeans-libs-javafx-linux.xml to /home/koni/Entwicklung/jakartaee-otel/.netbeans/config/Modules/org-netbeans-libs-javafx-linux.xml
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: 810: Downloading /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/javafx-base-17.0.7-linux.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied external file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-libs-javafx-linux.nbm.da4633a4 to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/javafx-base-17.0.7-linux.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-libs-javafx-linux.nbm.da4633a4 deleted.
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: 810: Downloading /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/javafx-controls-17.0.7-linux.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied external file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-libs-javafx-linux.nbm.e2137838 to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/javafx-controls-17.0.7-linux.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-libs-javafx-linux.nbm.e2137838 deleted.
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: 810: Downloading /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/javafx-graphics-17.0.7-linux.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied external file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-libs-javafx-linux.nbm.f757fcc0 to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/javafx-graphics-17.0.7-linux.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-libs-javafx-linux.nbm.f757fcc0 deleted.
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: 810: Downloading /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/javafx-media-17.0.7-linux.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied external file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-libs-javafx-linux.nbm.f6a40a0 to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/javafx-media-17.0.7-linux.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-libs-javafx-linux.nbm.f6a40a0 deleted.
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: 810: Downloading /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/javafx-swing-17.0.7-linux.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied external file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-libs-javafx-linux.nbm.378bf4a5 to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/javafx-swing-17.0.7-linux.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-libs-javafx-linux.nbm.378bf4a5 deleted.
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: 810: Downloading /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/javafx-web-17.0.7-linux.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied external file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-libs-javafx-linux.nbm.cb90c680 to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/javafx-web-17.0.7-linux.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-libs-javafx-linux.nbm.cb90c680 deleted.
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-libs-javafx-linux.nbm:netbeans/modules/org-netbeans-libs-javafx-linux.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/org-netbeans-libs-javafx-linux.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/org-netbeans-libs-javafx-linux.nbm deleted.
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.XMLUtil write
+INFO: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@7b548f9d
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.UpdateTracking$Module write
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update_tracking/org-netbeans-libs-javafx-linux.xml modified.
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: 780: Unpacking com-github-philippefichet-asciidoc4netbeans.nbm
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/config/Modules/com-github-philippefichet-asciidoc4netbeans.xml to /home/koni/Entwicklung/jakartaee-otel/.netbeans/config/Modules/com-github-philippefichet-asciidoc4netbeans.xml
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/com-github-philippefichet-asciidoc4netbeans.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/com-github-philippefichet-asciidoc4netbeans.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jffi-native.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jffi-native.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jffi.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jffi.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-a64asm.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-a64asm.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-constants.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-constants.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-enxio.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-enxio.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-ffi.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-ffi.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-netdb.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-netdb.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-posix.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-posix.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-unixsocket.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-unixsocket.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-x86asm.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-github-jnr/jnr-x86asm.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-google-code-findbugs/jsr305.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-google-code-findbugs/jsr305.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-headius/backport9.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-headius/backport9.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-headius/invokebinder.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-headius/invokebinder.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-headius/options.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-headius/options.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-jcraft/jzlib.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-jcraft/jzlib.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-typesafe/config.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/com-typesafe/config.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/io-jooby/jooby-jetty.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/io-jooby/jooby-jetty.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/io-jooby/jooby.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/io-jooby/jooby.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/javax-inject/javax.inject.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/javax-inject/javax.inject.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/javax-servlet/javax.servlet-api.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/javax-servlet/javax.servlet-api.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/joda-time/joda-time.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/joda-time/joda-time.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/me-qmx-jitescript/jitescript.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/me-qmx-jitescript/jitescript.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-asciidoctor/asciidoctorj-api.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-asciidoctor/asciidoctorj-api.jar
+Jun 12, 2025 10:31:47 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-asciidoctor/asciidoctorj-diagram-ditaamini.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-asciidoctor/asciidoctorj-diagram-ditaamini.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-asciidoctor/asciidoctorj-diagram-plantuml.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-asciidoctor/asciidoctorj-diagram-plantuml.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-asciidoctor/asciidoctorj-diagram.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-asciidoctor/asciidoctorj-diagram.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-asciidoctor/asciidoctorj.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-asciidoctor/asciidoctorj.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty-websocket/websocket-api.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty-websocket/websocket-api.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty-websocket/websocket-client.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty-websocket/websocket-client.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty-websocket/websocket-common.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty-websocket/websocket-common.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty-websocket/websocket-server.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty-websocket/websocket-server.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty-websocket/websocket-servlet.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty-websocket/websocket-servlet.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-client.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-client.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-http.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-http.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-io.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-io.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-security.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-security.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-server.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-server.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-servlet.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-servlet.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-util-ajax.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-util-ajax.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-util.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-eclipse-jetty/jetty-util.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-jruby-jcodings/jcodings.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-jruby-jcodings/jcodings.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-jruby-joni/joni.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-jruby-joni/joni.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-jruby/dirgra.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-jruby/dirgra.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-jruby/jruby-base.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-jruby/jruby-base.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-jruby/jruby-stdlib.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-jruby/jruby-stdlib.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-jruby/jruby.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-jruby/jruby.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-ow2-asm/asm-analysis.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-ow2-asm/asm-analysis.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-ow2-asm/asm-commons.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-ow2-asm/asm-commons.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-ow2-asm/asm-tree.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-ow2-asm/asm-tree.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-ow2-asm/asm-util.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-ow2-asm/asm-util.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-ow2-asm/asm.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-ow2-asm/asm.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-slf4j/slf4j-api.jar to /home/koni/Entwicklung/jakartaee-otel/.netbeans/modules/ext/com.github.philippefichet.asciidoc4netbeans/org-slf4j/slf4j-api.jar
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm:netbeans/update_tracking/com-github-philippefichet-asciidoc4netbeans.xml to /home/koni/Entwicklung/jakartaee-otel/.netbeans/update_tracking/com-github-philippefichet-asciidoc4netbeans.xml
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/com-github-philippefichet-asciidoc4netbeans.nbm deleted.
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.XMLUtil write
+INFO: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@fce54c8
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.UpdateTracking$Module write
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update_tracking/com-github-philippefichet-asciidoc4netbeans.xml modified.
+Jun 12, 2025 10:31:48 AM org.netbeans.updater.ModuleUpdater deleteAdditionalInfo
+INFO: File /home/koni/Entwicklung/jakartaee-otel/.netbeans/update/download/additional_information.xml deleted.

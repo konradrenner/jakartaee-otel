@@ -1,0 +1,4 @@
+url: file:/home/koni/Entwicklung/FullStackS/demos/publishing-company/author-service/src/test/java/eu/fullstacks/demos/publishingcompany/author/service/entity/author/AuthorFactoryTest.java
+class: eu.fullstacks.demos.publishingcompany.author.service.entity.author.AuthorFactoryTest:711
+method: unsuccessfulCreation:1038-1290
+method: successfulCreation:1296-1592

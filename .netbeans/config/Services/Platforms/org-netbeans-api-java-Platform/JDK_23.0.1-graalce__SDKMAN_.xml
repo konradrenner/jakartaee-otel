@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE platform PUBLIC "-//NetBeans//DTD Java PlatformDefinition 1.0//EN" "http://www.netbeans.org/dtds/java-platformdefinition-1_0.dtd">
+<platform default="no" name="JDK 23.0.1-graalce (SDKMAN)">
+    <jdkhome>
+        <resource>file:/home/koni/.sdkman/candidates/java/23.0.1-graalce/</resource>
+    </jdkhome>
+    <properties>
+        <property name="platform.ant.name" value="JDK_23.0.1-graalce__SDKMAN_"/>
+    </properties>
+    <sysproperties>
+        <property name="file.encoding" value="UTF-8"/>
+        <property name="file.separator" value="/"/>
+        <property name="java.class.path" value=""/>
+        <property name="java.class.version" value="67.0"/>
+        <property name="java.home" value="/home/koni/.sdkman/candidates/java/23.0.1-graalce"/>
+        <property name="java.io.tmpdir" value="/tmp"/>
+        <property name="java.library.path" value=":/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/>
+        <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+        <property name="java.runtime.version" value="23.0.1+11-jvmci-b01"/>
+        <property name="java.specification.name" value="Java Platform API Specification"/>
+        <property name="java.specification.vendor" value="Oracle Corporation"/>
+        <property name="java.specification.version" value="23"/>
+        <property name="java.vendor" value="GraalVM Community"/>
+        <property name="java.vendor.url" value="https://www.graalvm.org/"/>
+        <property name="java.vendor.url.bug" value="https://github.com/oracle/graal/issues"/>
+        <property name="java.vendor.version" value="GraalVM CE 23.0.1+11.1"/>
+        <property name="java.version" value="23.0.1"/>
+        <property name="java.version.date" value="2024-10-15"/>
+        <property name="java.vm.compressedOopsMode" value="Zero based"/>
+        <property name="java.vm.info" value="mixed mode, sharing"/>
+        <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+        <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+        <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+        <property name="java.vm.specification.version" value="23"/>
+        <property name="java.vm.vendor" value="GraalVM Community"/>
+        <property name="java.vm.version" value="23.0.1+11-jvmci-b01"/>
+        <property name="jdk.debug" value="release"/>
+        <property name="jdk.internal.vm.ci.enabled" value="true"/>
+        <property name="line.separator" value="&#10;"/>
+        <property name="native.encoding" value="UTF-8"/>
+        <property name="os.arch" value="amd64"/>
+        <property name="os.name" value="Linux"/>
+        <property name="os.version" value="6.11.0-102007-tuxedo"/>
+        <property name="path.separator" value=":"/>
+        <property name="stderr.encoding" value="UTF-8"/>
+        <property name="stdout.encoding" value="UTF-8"/>
+        <property name="sun.arch.data.model" value="64"/>
+        <property name="sun.boot.library.path" value="/home/koni/.sdkman/candidates/java/23.0.1-graalce/lib"/>
+        <property name="sun.cpu.endian" value="little"/>
+        <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+        <property name="sun.java.command" value="J2SEPlatformProbe /var/tmp/nb-platformdetect14178065487805250363properties"/>
+        <property name="sun.java.launcher" value="SUN_STANDARD"/>
+        <property name="sun.jnu.encoding" value="UTF-8"/>
+        <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+        <property name="user.country" value="AT"/>
+        <property name="user.dir" value=""/>
+        <property name="user.home" value="/home/koni"/>
+        <property name="user.language" value="de"/>
+        <property name="user.name" value="koni"/>
+        <property name="user.timezone" value="Europe/Vienna"/>
+    </sysproperties>
+</platform>

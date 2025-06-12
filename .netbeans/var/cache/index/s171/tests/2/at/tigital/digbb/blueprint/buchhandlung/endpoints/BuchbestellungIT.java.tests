@@ -1,0 +1,5 @@
+url: file:/home/koni/Entwicklung/Tigital/buchhandlung/src/test/java/at/tigital/digbb/blueprint/buchhandlung/endpoints/BuchbestellungIT.java
+class: at.tigital.digbb.blueprint.buchhandlung.endpoints.BuchbestellungIT:602
+method: buchbestellung:1115-1303
+method: testGetSecuredInfoBadJwt:1309-1510
+method: testGetSecuredInfoNoJwt:1516-1711

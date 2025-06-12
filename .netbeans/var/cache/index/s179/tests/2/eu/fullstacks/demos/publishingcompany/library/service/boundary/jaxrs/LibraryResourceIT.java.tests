@@ -1,0 +1,4 @@
+url: file:/home/koni/Entwicklung/FullStackS/demos/publishing-company/library-service/src/test/java/eu/fullstacks/demos/publishingcompany/library/service/boundary/jaxrs/LibraryResourceIT.java
+class: eu.fullstacks.demos.publishingcompany.library.service.boundary.jaxrs.LibraryResourceIT:964
+method: loadBookFromExternalLibrary:1223-1561
+method: loadBookFromInternalLibrary:1567-1911

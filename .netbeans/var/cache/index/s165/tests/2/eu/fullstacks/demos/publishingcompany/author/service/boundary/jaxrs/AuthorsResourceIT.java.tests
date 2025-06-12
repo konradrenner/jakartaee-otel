@@ -1,0 +1,8 @@
+url: file:/home/koni/Entwicklung/FullStackS/demos/publishing-company/author-service/src/test/java/eu/fullstacks/demos/publishingcompany/author/service/boundary/jaxrs/AuthorsResourceIT.java
+class: eu.fullstacks.demos.publishingcompany.author.service.boundary.jaxrs.AuthorsResourceIT:707
+method: testGetAllEndpoint:732-980
+method: testGetDarthSidiousEndpoint:986-1276
+method: testNotFoundEndpoint:1282-1485
+method: testUpdateBookEndpoint:1491-2462
+method: testCreateTestauthorEndpoint:2468-3356
+method: testCreateIncorrectTestauthorEndpoint:3362-3990

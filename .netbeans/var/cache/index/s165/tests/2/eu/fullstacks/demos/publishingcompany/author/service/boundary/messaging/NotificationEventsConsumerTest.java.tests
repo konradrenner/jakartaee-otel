@@ -1,0 +1,4 @@
+url: file:/home/koni/Entwicklung/FullStackS/demos/publishing-company/author-service/src/test/java/eu/fullstacks/demos/publishingcompany/author/service/boundary/messaging/NotificationEventsConsumerTest.java
+class: eu.fullstacks.demos.publishingcompany.author.service.boundary.messaging.NotificationEventsConsumerTest:812
+method: test_incoming_reception_created_event:1153-1636
+method: test_incoming_reception_updated_event:1642-2199
