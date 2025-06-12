@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE platform PUBLIC "-//NetBeans//DTD Java PlatformDefinition 1.0//EN" "http://www.netbeans.org/dtds/java-platformdefinition-1_0.dtd">
+<platform default="no" name="JDK 17.0.6-oracle (SDKMAN)">
+    <jdkhome>
+        <resource>file:/Users/koni/.sdkman/candidates/java/17.0.6-oracle/</resource>
+    </jdkhome>
+    <properties>
+        <property name="platform.ant.name" value="JDK_17.0.6-oracle__SDKMAN_"/>
+    </properties>
+    <sysproperties>
+        <property name="file.encoding" value="UTF-8"/>
+        <property name="file.separator" value="/"/>
+        <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+        <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+        <property name="java.class.path" value=""/>
+        <property name="java.class.version" value="61.0"/>
+        <property name="java.home" value="/Users/koni/.sdkman/candidates/java/17.0.6-oracle"/>
+        <property name="java.io.tmpdir" value="/var/folders/00/bvg07xx12bxb53qq34h1qtk40000gn/T/"/>
+        <property name="java.library.path" value="/Users/koni/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+        <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+        <property name="java.runtime.version" value="17.0.6+9-LTS-190"/>
+        <property name="java.specification.name" value="Java Platform API Specification"/>
+        <property name="java.specification.vendor" value="Oracle Corporation"/>
+        <property name="java.specification.version" value="17"/>
+        <property name="java.vendor" value="Oracle Corporation"/>
+        <property name="java.vendor.url" value="https://java.oracle.com/"/>
+        <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+        <property name="java.version" value="17.0.6"/>
+        <property name="java.version.date" value="2023-01-17"/>
+        <property name="java.vm.compressedOopsMode" value="Zero based"/>
+        <property name="java.vm.info" value="mixed mode, sharing"/>
+        <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+        <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+        <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+        <property name="java.vm.specification.version" value="17"/>
+        <property name="java.vm.vendor" value="Oracle Corporation"/>
+        <property name="java.vm.version" value="17.0.6+9-LTS-190"/>
+        <property name="jdk.debug" value="release"/>
+        <property name="line.separator" value="&#10;"/>
+        <property name="native.encoding" value="UTF-8"/>
+        <property name="os.arch" value="aarch64"/>
+        <property name="os.name" value="Mac OS X"/>
+        <property name="os.version" value="15.5"/>
+        <property name="path.separator" value=":"/>
+        <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+        <property name="sun.arch.data.model" value="64"/>
+        <property name="sun.boot.library.path" value="/Users/koni/.sdkman/candidates/java/17.0.6-oracle/lib"/>
+        <property name="sun.cpu.endian" value="little"/>
+        <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+        <property name="sun.java.command" value="J2SEPlatformProbe /var/folders/00/bvg07xx12bxb53qq34h1qtk40000gn/T/nb-platformdetect3749379809321866224properties"/>
+        <property name="sun.java.launcher" value="SUN_STANDARD"/>
+        <property name="sun.jnu.encoding" value="UTF-8"/>
+        <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+        <property name="sun.stderr.encoding" value="UTF-8"/>
+        <property name="sun.stdout.encoding" value="UTF-8"/>
+        <property name="user.country" value="AT"/>
+        <property name="user.dir" value=""/>
+        <property name="user.home" value="/Users/koni"/>
+        <property name="user.language" value="de"/>
+        <property name="user.name" value="koni"/>
+        <property name="user.timezone" value="Europe/Vienna"/>
+    </sysproperties>
+</platform>

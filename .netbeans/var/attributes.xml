@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
 <attributes version="1.0">
+    <fileobject name="|Users|koni|.m2|repository|com|google|guava|failureaccess|1.0.1|failureaccess-1.0.1-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b59741903000078707708000001976464c00678"/>
+    </fileobject>
+    <fileobject name="|Users|koni|.m2|repository|jakarta|ws|rs|jakarta.ws.rs-api|3.1.0|jakarta.ws.rs-api-3.1.0-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b59741903000078707708000001976464bfec78"/>
+    </fileobject>
+    <fileobject name="|Users|koni|.m2|repository|org|apache|httpcomponents|httpclient|4.5.14|httpclient-4.5.14-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b59741903000078707708000001976464c03978"/>
+    </fileobject>
+    <fileobject name="|Users|koni|.m2|repository|org|apache|httpcomponents|httpcore|4.4.16|httpcore-4.4.16-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b59741903000078707708000001976464c03c78"/>
+    </fileobject>
+    <fileobject name="|Users|koni|.m2|repository|org|apiguardian|apiguardian-api|1.1.2|apiguardian-api-1.1.2-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b59741903000078707708000001976464c03378"/>
+    </fileobject>
+    <fileobject name="|Users|koni|.m2|repository|org|codehaus|plexus|plexus-cipher|2.0|plexus-cipher-2.0-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b59741903000078707708000001976464c01e78"/>
+    </fileobject>
+    <fileobject name="|Users|koni|.m2|repository|org|codehaus|plexus|plexus-classworlds|2.6.0|plexus-classworlds-2.6.0-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b59741903000078707708000001976464c02778"/>
+    </fileobject>
+    <fileobject name="|Users|koni|.m2|repository|org|codehaus|plexus|plexus-component-annotations|2.1.0|plexus-component-annotations-2.1.0-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b59741903000078707708000001976464c02478"/>
+    </fileobject>
+    <fileobject name="|Users|koni|.m2|repository|org|codehaus|plexus|plexus-interpolation|1.26|plexus-interpolation-1.26-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b59741903000078707708000001976464c01b78"/>
+    </fileobject>
+    <fileobject name="|Users|koni|.m2|repository|org|codehaus|plexus|plexus-sec-dispatcher|2.0|plexus-sec-dispatcher-2.0-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b59741903000078707708000001976464c02078"/>
+    </fileobject>
+    <fileobject name="|Users|koni|.m2|repository|org|fusesource|jansi|jansi|2.4.0|jansi-2.4.0-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b59741903000078707708000001976464c01378"/>
+    </fileobject>
+    <fileobject name="|Users|koni|.m2|repository|org|opentest4j|opentest4j|1.3.0|opentest4j-1.3.0-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b59741903000078707708000001976464c02d78"/>
+    </fileobject>
+    <fileobject name="|Users|koni|.sdkman|candidates|java|17.0.6-oracle">
+        <attr name="J2SEPlatform.displayName" stringvalue="JDK 17.0.6-oracle (SDKMAN)"/>
+    </fileobject>
+    <fileobject name="|Users|koni|.sdkman|candidates|java|21-graalce">
+        <attr name="J2SEPlatform.displayName" stringvalue="JDK 21-graalce (SDKMAN)"/>
+    </fileobject>
+    <fileobject name="|Users|koni|Development|Repositories|github|jakartaee-otel|.netbeans|var|cache|mavencachedirs|1415719321|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/Users/koni/Development/Repositories/github/jakartaee-otel/vader-service/"/>
+    </fileobject>
+    <fileobject name="|Users|koni|Development|Repositories|github|jakartaee-otel|.netbeans|var|cache|mavencachedirs|1570639639|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/Users/koni/Development/Repositories/github/jakartaee-otel/slides/"/>
+    </fileobject>
+    <fileobject name="|Users|koni|Development|Repositories|github|jakartaee-otel|.netbeans|var|cache|mavencachedirs|371094016|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/Users/koni/Development/Repositories/github/jakartaee-otel/luke-service/"/>
+    </fileobject>
+    <fileobject name="|Users|koni|Development|Repositories|github|jakartaee-otel|slides">
+        <attr name="AuxilaryConfiguration" stringvalue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>\u000a&lt;project-private>\u000a    &lt;editor-bookmarks xmlns=&quot;http://www.netbeans.org/ns/editor-bookmarks/2&quot; lastBookmarkId=&quot;0&quot;/>\u000a&lt;/project-private>\u000a"/>
+    </fileobject>
     <fileobject name="|home|koni|.m2|repository|jakarta|ws|rs|jakarta.ws.rs-api|3.1.0|jakarta.ws.rs-api-3.1.0-sources.jar">
         <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b597419030000787077080000019762de1f7278"/>
     </fileobject>

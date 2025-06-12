@@ -1,0 +1,3 @@
+= vader-service
+
+This service showcases the combination of OpenTelemetry and Jakarta EE for observability purposes, based on OpenLiberty.

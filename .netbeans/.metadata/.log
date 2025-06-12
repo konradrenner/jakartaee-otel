@@ -100,3 +100,19 @@ org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
 	at org.netbeans.modules.openide.util.GlobalLookup.execute(GlobalLookup.java:45)
 	at org.openide.util.lookup.Lookups.executeWith(Lookups.java:287)
 	at org.openide.util.RequestProcessor$Processor.run(RequestProcessor.java:2018)
+!SESSION 2025-06-12 15:43:46.017 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.4
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=de_AT
+
+!ENTRY org.eclipse.core.net 1 0 2025-06-12 15:43:46.017
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2025-06-12 15:46:19.745 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.4
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=de_AT
+
+!ENTRY org.eclipse.core.net 1 0 2025-06-12 15:46:19.745
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences

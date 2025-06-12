@@ -1,0 +1,14 @@
+= jakartaee-otel
+This repository contains an example for the use of OpenTelemetry for observing Jakarta EE / MicroProfile Projects.
+
+To set everything up, devenv configs and devcontainers are available in this repository.
+
+
+For macOS users, there is a open issue, that sometimes Nix installation breaks => https://github.com/NixOS/nix/issues/3616 .
+
+Normally running this command fixes the problem:
+
+[source, bash]
+----
+[[ ! $(command -v nix) && -e '/nix/var/nix/profiles/default/etc/profile.d/nix-daemon.sh' ]] && source '/nix/var/nix/profiles/default/etc/profile.d/nix-daemon.sh'
+----
