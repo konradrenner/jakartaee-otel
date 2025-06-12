@@ -1,5 +1,0 @@
-url: file:/home/koni/Entwicklung/FullStackS/demos/publishing-company/author-service/src/test/java/eu/fullstacks/demos/publishingcompany/author/service/control/BookServiceTest.java
-class: eu.fullstacks.demos.publishingcompany.author.service.control.BookServiceTest:1761
-method: authorNotFound:2264-2474
-method: bookNotFound:2480-2775
-method: bookPriceUpdated:2781-3578

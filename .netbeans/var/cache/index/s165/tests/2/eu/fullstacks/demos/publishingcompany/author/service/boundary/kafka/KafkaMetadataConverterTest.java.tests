@@ -1,3 +1,0 @@
-url: file:/home/koni/Entwicklung/FullStackS/demos/publishing-company/author-service/src/test/java/eu/fullstacks/demos/publishingcompany/author/service/boundary/kafka/KafkaMetadataConverterTest.java
-class: eu.fullstacks.demos.publishingcompany.author.service.boundary.kafka.KafkaMetadataConverterTest:698
-method: payload_and_eventtype_extraction:732-1855

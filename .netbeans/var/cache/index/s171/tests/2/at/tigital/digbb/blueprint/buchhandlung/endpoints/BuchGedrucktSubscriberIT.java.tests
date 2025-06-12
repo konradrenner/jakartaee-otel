@@ -1,3 +1,0 @@
-url: file:/home/koni/Entwicklung/Tigital/buchhandlung/src/test/java/at/tigital/digbb/blueprint/buchhandlung/endpoints/BuchGedrucktSubscriberIT.java
-class: at.tigital.digbb.blueprint.buchhandlung.endpoints.BuchGedrucktSubscriberIT:1045
-method: testBuchGedrucktEvent:1212-2020

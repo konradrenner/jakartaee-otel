@@ -1,4 +1,0 @@
-url: file:/home/koni/Entwicklung/FullStackS/demos/publishing-company/author-service/src/test/java/eu/fullstacks/demos/publishingcompany/author/service/boundary/jpa/PersistentAuthorTest.java
-class: eu.fullstacks.demos.publishingcompany.author.service.boundary.jpa.PersistentAuthorTest:852
-method: updateBook:1582-2413
-method: addBook:2419-3217

@@ -1,6 +1,0 @@
-url: file:/home/koni/Entwicklung/FullStackS/demos/publishing-company/author-service/src/test/java/eu/fullstacks/demos/publishingcompany/author/service/entity/author/AuthorTest.java
-class: eu.fullstacks.demos.publishingcompany.author.service.entity.author.AuthorTest:698
-method: addBookWhichExists:1510-1882
-method: addBookWhichNotExists:1888-2227
-method: addBlogWhichExists:2233-2644
-method: addBlogWhichNotExists:2650-3019

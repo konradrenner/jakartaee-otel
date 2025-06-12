@@ -1,4 +1,0 @@
-url: file:/home/koni/Entwicklung/FullStackS/demos/publishing-company/author-service/src/test/java/eu/fullstacks/demos/publishingcompany/author/service/entity/author/BookTest.java
-class: eu.fullstacks.demos.publishingcompany.author.service.entity.author.BookTest:499
-method: addPositivePriceValue:749-936
-method: addNegativePriceValue:942-1134
