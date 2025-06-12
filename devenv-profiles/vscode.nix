@@ -11,6 +11,7 @@
     pkgs.vscode
     pkgs.podman
     pkgs.podman-compose
+    pkgs.github-desktop
     ];
 
   # https://devenv.sh/languages/

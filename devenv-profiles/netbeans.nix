@@ -9,6 +9,7 @@
     pkgs.git
     pkgs.opentelemetry-collector-contrib
     pkgs.netbeans
+    pkgs.gh
     ];
 
   # https://devenv.sh/languages/
@@ -36,7 +37,7 @@
   enterShell = ''
     hello
     git --version
-    netbeans --userdir $(pwd)/.netbeans
+    alias startide="netbeans --userdir $(pwd)/.netbeans"
   '';
 
   # https://devenv.sh/tasks/
