@@ -22,6 +22,7 @@ ifndef::sourcedir[:sourcedir: ../../main/java]
 == Agenda
 
 [%step]
+* The O11y Challenge in distributed systems
 * What is OpenTelemetry?
 * Why OpenTelemetry?
 * OTEL Architecture

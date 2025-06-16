@@ -25,6 +25,8 @@ processors:
 exporters:
   debug:
     verbosity: detailed
+  prometheus:
+    endpoint: "0.0.0.0:8889"
   file/traces:
     path: ./otel-collector/outputs/traces.json
   file/metrics:
@@ -44,7 +46,7 @@ service:
     metrics:
       receivers: [otlp]
       processors: [batch]
-      exporters: [file/metrics]
+      exporters: [prometheus]
 
     logs:
       receivers: [otlp]
