@@ -30,6 +30,10 @@ ifndef::sourcedir[:sourcedir: ../../main/java]
 ** The "Agent way"
 ** MicroProfile Telemetry
 * Coding
+** Config
+*** resource attributes, service name, service version, unstructured logging format
+*** resource attributes
+** Unterschiede Quarkus und Liberty/MP Pure (dependencies, workaround bei baggage, inject vs api)
 ** Tracing
 *** Spans, Baggage, Span Links, Span Events, Span Attributes
 ** Metrics
