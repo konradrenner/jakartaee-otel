@@ -144,11 +144,11 @@
                                 <revealjsdir>reveal.js-${revealjs.version}</revealjsdir>
                                 <!-- put here the reveal.js specific attributes -->
                                 <sourcedir>${basedir}/src/main/java</sourcedir>
-                                <revealjs_theme>black</revealjs_theme>
+                                <customcss>css/custom.css</customcss> 
+                                <revealjs_theme>league</revealjs_theme>
                                 <revealjs_transition>linear</revealjs_transition>
                                 <project-version>${project.version}</project-version>
                                 <rouge-css>class</rouge-css>
-                                <customcss>styles/monokai.css</customcss>
                                 <source-highlighter>rouge</source-highlighter>
                             </attributes>
                         </configuration>

@@ -8,6 +8,7 @@
   packages = [
     pkgs.git
     pkgs.opentelemetry-collector-contrib
+    pkgs.graphviz
     pkgs.netbeans
     pkgs.gh
     ];

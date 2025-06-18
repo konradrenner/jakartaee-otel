@@ -9,6 +9,7 @@
     pkgs.git
     pkgs.opentelemetry-collector-contrib
     pkgs.vscode
+    pkgs.graphviz
     pkgs.podman
     pkgs.podman-compose
     pkgs.gh
