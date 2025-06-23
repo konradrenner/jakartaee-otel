@@ -14,6 +14,7 @@ import jakarta.ws.rs.ext.Provider;
  *
  * @author Konrad Renner
  */
+//tag::filter[]
 @Provider
 public class BaggageClientRequestFilter implements ClientRequestFilter {
 
@@ -31,3 +32,4 @@ public class BaggageClientRequestFilter implements ClientRequestFilter {
         }
     }
 }
+//end::filter[]

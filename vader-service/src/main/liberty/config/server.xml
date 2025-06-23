@@ -2,10 +2,12 @@
 <server description="new server">
 
     <!-- Enable features -->
+    <!-- tag::mp-feature[] -->
     <featureManager>
         <feature>jakartaee-10.0</feature>
         <feature>microProfile-7.0</feature>
     </featureManager>
+    <!-- end::mp-feature[] -->
 
     <!-- This template enables security. To get the full use of all the capabilities, a keystore and user registry are required. -->
 

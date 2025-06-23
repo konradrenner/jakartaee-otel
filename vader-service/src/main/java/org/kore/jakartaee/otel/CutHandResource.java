@@ -33,6 +33,7 @@ public class CutHandResource {
 
         LOG.info("It is useless to resist");
 
+        //tag::fun-with-baggage[]
         var vadersAngerLevel = new Random();
 
         try (final Scope scope = Baggage.current().toBuilder()
@@ -46,10 +47,13 @@ public class CutHandResource {
         } finally {
             Span.current().addEvent("Vader told Luke the truth");
         }
+        //end::fun-with-baggage[]
     }
 
+    //tag::fun-with-traces[]
     @WithSpan
     private void reactToLuke(@SpanAttribute("lukesReaction") String lukesAnswere) {
         LOG.log(Level.INFO, "There is no escape, don''t make me destroy you:{0}", lukesAnswere);
     }
+    //end::fun-with-traces[]
 }
