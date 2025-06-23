@@ -20,6 +20,7 @@ public class EscapeBespin {
 
     private static final Logger LOG = Logger.getLogger(EscapeBespin.class.getName());
 
+    //tag::spanlink[]
     @Inject
     Tracer tracer;
 
@@ -29,7 +30,7 @@ public class EscapeBespin {
 
     public void onHandLost(@ObservesAsync CutOffHandEvent event) {
         Span forkedSpan = tracer.spanBuilder("handLost")
-                .setNoParent()
+                .setNoParent() // To create a new trace, the created Span must not have a parent Span
                 .addLink(currentSpan.getSpanContext())
                 .setAttribute(AttributeKey.stringKey("luke.opponent"), event.opponent())
                 .setSpanKind(SpanKind.INTERNAL)
@@ -42,4 +43,5 @@ public class EscapeBespin {
         }
 
     }
+    //end::spanlink[]
 }

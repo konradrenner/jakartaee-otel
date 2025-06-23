@@ -17,6 +17,7 @@ import jakarta.inject.Inject;
 @ApplicationScoped
 public class OpponentAngerLevelMetering {
 
+    //tag::metering[]
     @Inject
     Meter metering;
 
@@ -32,6 +33,8 @@ public class OpponentAngerLevelMetering {
     }
 
     public void addNewAngerLevel(Long level, Attributes attr) {
+        // be aware and careful of dimensions of metric time series (different values of different attributes will create additional dimensions!)
         gauge.set(level, attr);
     }
+    //end:metering[]
 }

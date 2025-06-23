@@ -19,13 +19,14 @@ public class LooseHandResource {
     private static final Logger LOG = Logger.getLogger(LooseHandResource.class.getName());
 
     @Inject
-    Baggage currentBaggage;
-
-    @Inject
     OpponentAngerLevelMetering metering;
 
     @Inject
     Event<CutOffHandEvent> handCutOff;
+
+    //tag::baggage[]
+    @Inject
+    Baggage currentBaggage;
 
     @GET
     @Produces(MediaType.TEXT_PLAIN)
@@ -43,4 +44,5 @@ public class LooseHandResource {
 
         return Response.ok("Aaaah!").build();
     }
+    //end::baggage[]
 }
