@@ -1,3 +1,13 @@
 = luke-service
 
 This service showcases the combination of OpenTelemetry and Jakarta EE for observability purposes, based on Quarkus.
+
+== Getting started
+
+To get O11y with OpenTelemetry up and running, we are using the corresponding Quarkus plugin:
+
+[source,xml]
+----
+<!-- pom.xml -->
+include::pom.xml[tag=plugin,indent=0]
+----

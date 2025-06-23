@@ -30,6 +30,14 @@ include::pom.xml[tag=otel-api,indent=0]
 
 Now you already have tracing, metrics and even logging based on OpenTelemetry up and running with your OpenLiberty App.
 
+Todo some additional configuration, you have all the possibilities of MP Config (the names of the config properities are the same as defined in the link:https://opentelemetry.io/docs/languages/java/configuration/[OpenTelemetry SDK)]:
+
+[source,properties]
+----
+# microprofile-config.properties
+include::src/main/resources/META-INF/microprofile-config.properties[][tag=config,indent=0]
+----
+
 == Tracing
 
 Let's have a look, on how to extend your traces with some additional informations. You can create Spans in a declarative style and also add additional attributes to your Spans via OTEL API:
