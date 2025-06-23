@@ -11,3 +11,21 @@ To get O11y with OpenTelemetry up and running, we are using the corresponding Qu
 <!-- pom.xml -->
 include::pom.xml[tag=plugin,indent=0]
 ----
+
+Now you already have tracing based on OpenTelemetry up and running with your Quarkus App (metrics and logging are currently not actived by default because they are relativly new in Quarkus available).
+
+Todo some additional configuration, you have all the possibilities of Quarkus and MicroProfile Config (the names of the config properities are the same as defined in the link:https://opentelemetry.io/docs/languages/java/configuration/[OpenTelemetry SDK], prefixed with quarkus):
+
+[source,properties]
+----
+# application.properties
+include::src/main/resources/application.properties[tag=config,indent=0]
+----
+
+If you are using unstructered logging, you can simply extend your log format with tracing informations (the plugin will automatically set the values in the MDC of your Logging-Framework, e.g. JBoss LogManager):
+
+[source,properties]
+----
+# application.properties
+include::src/main/resources/application.properties[tag=trace-log,indent=0]
+----

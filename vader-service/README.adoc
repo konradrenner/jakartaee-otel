@@ -4,7 +4,7 @@ This service showcases the combination of OpenTelemetry and Jakarta EE for obser
 
 == Getting started
 
-To get O11y with OpenTelemetry up and running, we are using MicroProfile Telemtry. You can add just the MP Telemetry Spec, or simply include the whole MicroProfile Spec into your project:
+To get O11y with OpenTelemetry up and running, we are using link:https://github.com/microprofile/microprofile-telemetry[MicroProfile Telemtry]. You can add just the MP Telemetry Spec, or simply include the whole MicroProfile Spec into your project:
 
 [source,xml]
 ----
@@ -30,12 +30,12 @@ include::pom.xml[tag=otel-api,indent=0]
 
 Now you already have tracing, metrics and even logging based on OpenTelemetry up and running with your OpenLiberty App.
 
-Todo some additional configuration, you have all the possibilities of MP Config (the names of the config properities are the same as defined in the link:https://opentelemetry.io/docs/languages/java/configuration/[OpenTelemetry SDK)]:
+Todo some additional configuration, you have all the possibilities of link:https://github.com/microprofile/microprofile-config[MP Config] (the names of the config properities are the same as defined in the link:https://opentelemetry.io/docs/languages/java/configuration/[OpenTelemetry SDK]):
 
 [source,properties]
 ----
 # microprofile-config.properties
-include::src/main/resources/META-INF/microprofile-config.properties[][tag=config,indent=0]
+include::src/main/resources/META-INF/microprofile-config.properties[tag=config,indent=0]
 ----
 
 == Tracing
@@ -44,7 +44,7 @@ Let's have a look, on how to extend your traces with some additional information
 
 [source,java]
 ----
-include::src/main/java/org/kore/jakartaee/otel/CutHandResource.java[][tag=fun-with-traces,indent=0]
+include::src/main/java/org/kore/jakartaee/otel/CutHandResource.java[tag=fun-with-traces,indent=0]
 ----
 
 == Baggage
@@ -55,12 +55,12 @@ In the following example, please note also the set of an Event into the current 
 
 [source,java]
 ----
-include::src/main/java/org/kore/jakartaee/otel/CutHandResource.java[][tag=fun-with-baggage,indent=0]
+include::src/main/java/org/kore/jakartaee/otel/CutHandResource.java[tag=fun-with-baggage,indent=0]
 ----
 
 On thing to mention is that die Baggage part in MP Telemetry is work in progress, so at the moment it is not specified exactly how to runtimes must propagate Baggage, so in case of OpenLiberty nothing is done automatically, so you have to create e.g. a ClientRequestFilter:
 
 [source,java]
 ----
-include::src/main/java/org/kore/jakartaee/otel/BaggageClientRequestFilter.java[][tag=filter,indent=0]
+include::src/main/java/org/kore/jakartaee/otel/BaggageClientRequestFilter.java[tag=filter,indent=0]
 ----
