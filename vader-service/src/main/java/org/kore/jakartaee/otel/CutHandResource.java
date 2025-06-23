@@ -1,10 +1,5 @@
 package org.kore.jakartaee.otel;
 
-import io.opentelemetry.api.baggage.Baggage;
-import io.opentelemetry.api.trace.Span;
-import io.opentelemetry.context.Scope;
-import io.opentelemetry.instrumentation.annotations.SpanAttribute;
-import io.opentelemetry.instrumentation.annotations.WithSpan;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -35,21 +30,14 @@ public class CutHandResource {
 
         var vadersAngerLevel = new Random();
 
-        try (final Scope scope = Baggage.current().toBuilder()
-                .put("vadersAngerLevel", Integer.toString(vadersAngerLevel.nextInt(100))).build().makeCurrent()) {
+        var lukesAnswere = luke.looseHand().readEntity(String.class);
 
-            var lukesAnswere = luke.looseHand().readEntity(String.class);
+        reactToLuke(lukesAnswere);
 
-            reactToLuke(lukesAnswere);
-
-            return Response.ok("Now that I cut off your hand, I can tell you the truth: I am your father!").build();
-        } finally {
-            Span.current().addEvent("Vader told Luke the truth");
-        }
+        return Response.ok("Now that I cut off your hand, I can tell you the truth: I am your father!").build();
     }
 
-    @WithSpan
-    private void reactToLuke(@SpanAttribute("lukesReaction") String lukesAnswere) {
+    private void reactToLuke(String lukesAnswere) {
         LOG.log(Level.INFO, "There is no escape, don''t make me destroy you:{0}", lukesAnswere);
     }
 }
