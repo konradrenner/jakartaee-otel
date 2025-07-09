@@ -9,6 +9,8 @@
     pkgs.git
     pkgs.opentelemetry-collector-contrib
     pkgs.graphviz
+    pkgs.fontconfig
+    pkgs.plantuml
     pkgs.netbeans
     pkgs.gh
     ];
@@ -17,7 +19,7 @@
   # languages.rust.enable = true;
   languages.java = {
     enable = true;
-    jdk.package = pkgs.graalvmPackages.graalvm-ce;
+    jdk.package = pkgs.temurin-bin-24;
     maven.enable = true;
   };
 
