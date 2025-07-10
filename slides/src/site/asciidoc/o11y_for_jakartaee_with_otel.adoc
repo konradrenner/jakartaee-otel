@@ -3,7 +3,7 @@ Konrad Renner <github.com/konradrenner>
 v1.0.0, {localdate}: Initial version
 :revnumber: v1.0.0
 :title-page:
-:title-logo-image: image:title_logo.png[top=25%,align=right,pdfwidth=5.0in]
+:title-logo-image: image:logo.jpg[top=25%,align=right,pdfwidth=5.0in]
 :example-caption!:
 ifndef::imagesdir[:imagesdir: images]
 ifndef::sourcedir[:sourcedir: ../../main/java]
