@@ -17,6 +17,7 @@
 
   # https://devenv.sh/languages/
   # languages.rust.enable = true;
+  # Netbeans laeuft mit Graal aktuell nicht gut auf Linux Wayland Maschinen
   languages.java = {
     enable = true;
     jdk.package = pkgs.temurin-bin-24;
@@ -37,10 +38,25 @@
     echo hello from $GREET
   '';
 
+  # Netbeans legt absolute Pfade in seinen configs ab, daher die Unterscheidung zwischen Mac und Linux, weiters gibt es das asciidoc plugin nicht fuer macos und last but not least machen java und kwayland ein scaling unter linux auf hidpi bildschirmen, daher noch die fontsize anpassen...
   enterShell = ''
     hello
     git --version
-    alias startide="netbeans --userdir $(pwd)/.netbeans"
+    OS_TYPE=$(uname)
+    if [[ "$OS_TYPE" == "Linux" ]]; then
+      alias startide="netbeans --userdir $(pwd)/.netbeans-linux --fontsize 14 > /dev/null 2>&1 &"
+    elif [[ "$OS_TYPE" == "Darwin" ]]; then
+      alias startide="netbeans --userdir $(pwd)/.netbeans-macos > /dev/null 2>&1 &"
+    else
+      echo "Nicht unterstütztes Betriebssystem: $OS_TYPE"
+      exit 1
+    fi
+    if [ -f /etc/profile ]; then
+      source /etc/profile
+    fi
+    if [ -f ~/.bashrc ]; then
+      source ~/.bashrc
+    fi
   '';
 
   # https://devenv.sh/tasks/

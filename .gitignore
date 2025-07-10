@@ -30,5 +30,5 @@ devenv.local.nix
 .DS_Store
 .jbang
 
-.netbeans/var
-.netbeans/update_tracking
+.netbeans-*/var
+.netbeans-*/update_tracking
