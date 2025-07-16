@@ -64,3 +64,13 @@ On thing to mention is that die Baggage part in MP Telemetry is work in progress
 ----
 include::src/main/java/org/kore/jakartaee/otel/BaggageClientRequestFilter.java[tag=filter,indent=0]
 ----
+
+== Instrumentation without MicroProfile Telemetry
+
+If you want to instrument your application without MicroProfile Telemetry (e.g. you are using Spring), the following code showcases you how to instrument your app directly with the opentelemetry-javaagent.
+
+[source,xml]
+----
+<!-- pom.xml -->
+include::pom.xml[tag=agent,indent=0]
+----
