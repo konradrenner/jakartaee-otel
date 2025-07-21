@@ -85,13 +85,13 @@ image::distributed.png[scaledwidth=100%]
 * "High-quality, ubiquitous, and portable telemetry to enable effective observability"
 * Built on top of other standards (like W3C Trace Context, W3C Baggage)
 * Specs / Semantic Conventions / SDK
-** Signals, OTLP, Context (Propagation), APIs, ...
+* link:https://www.splunk.com/en_us/blog/learn/observability-as-code-oac.html[Observability-as-Code]
 * Zero-Code & Code-Based instrumentation
 
 // Press the `*s*` key to access speaker notes.
 [NOTE.speaker]
 --
-* TODO
+* Specs, Conventions and SDKs: Signals, OTLP, Context (Propagation), APIs, ...
 --
 
 <<<<
