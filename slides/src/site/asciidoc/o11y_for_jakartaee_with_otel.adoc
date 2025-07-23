@@ -16,7 +16,7 @@ ifndef::sourcedir[:sourcedir: ../../main/java]
 * Profession: *Software Architecture*
 * Company: link:http://www.fullstacks.eu[FullStackS]
 * Some personal things: *Linux / Java / DDD / Open Source / OpenHab / Star Wars / BBQ* enthusiast
-* Direct link to digital life: *link:http://github.com/konradrenner[GitHub - konradrenner]*
+* Source Code *link:github.com/konradrenner/jakartaee-otel[GitHub - konradrenner]*
 
 <<<<
 == Agenda
