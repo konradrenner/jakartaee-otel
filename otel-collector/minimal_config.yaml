@@ -23,6 +23,10 @@ processors:
 
 
 exporters:
+  otlp:
+    endpoint: http://127.0.0.1:4327
+    tls:
+      insecure: true
   debug:
     verbosity: detailed
   prometheus:

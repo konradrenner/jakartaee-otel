@@ -175,6 +175,12 @@ endlegend
 *** From Instrumentation, Custom Metrics, push vs pull
 ** Logs
 *** Log-Format, local exporter console sonst streaming
+** OTEL Collector Config
+*** last but not least lets have a look how it would look like on a real backend
+*** therefore we are going into the o11y-as-code aspect of otel and dive into the otel collector config
+*** you can see the config section and the action via pipelines of receivers, processors and exporters, you can even use connectors to for example create mectrics out of logs
+*** if we now want to change that trace should be sent to an other backend then a file, we simply have to change the exporter config in the corresponding pipelines
+*** we restart the collector, send some traces and in no time we will be able to have a look at it in the monitoring backend
 --
 
 <<<<
