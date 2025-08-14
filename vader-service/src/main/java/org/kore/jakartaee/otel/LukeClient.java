@@ -14,7 +14,7 @@ import org.eclipse.microprofile.rest.client.inject.RegisterRestClient;
 @Path("/loose")
 @RegisterRestClient(configKey = "luke")
 @RegisterClientHeaders
-@RegisterProvider(BaggageClientRequestFilter.class)
+//@RegisterProvider(BaggageClientRequestFilter.class)
 public interface LukeClient {
     @GET
     @Produces(MediaType.TEXT_PLAIN)

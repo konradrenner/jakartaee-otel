@@ -34,11 +34,14 @@ public class CutHandResource {
         LOG.info("It is useless to resist");
 
         //tag::fun-with-baggage[]
-        var vadersAngerLevel = new Random();
+        final var vadersAngerLevel = new Random();
+        final var currentAngryLevel = Integer.toString(vadersAngerLevel.nextInt(100));
 
         try (final Scope scope = Baggage.current().toBuilder()
-                .put("vadersAngerLevel", Integer.toString(vadersAngerLevel.nextInt(100))).build().makeCurrent()) {
+                .put("vadersAngerLevel", currentAngryLevel).build().makeCurrent()) {
 
+            LOG.log(Level.INFO, "I am on angry level:{0}", currentAngryLevel);
+            
             var lukesAnswere = luke.looseHand().readEntity(String.class);
 
             reactToLuke(lukesAnswere);

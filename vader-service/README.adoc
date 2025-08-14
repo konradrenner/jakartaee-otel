@@ -2,6 +2,8 @@
 
 This service showcases the combination of OpenTelemetry and Jakarta EE for observability purposes, based on OpenLiberty.
 
+IMPORTANT: The following guide requires at least MicroProfile 7.1. You can find the details why this is important (especially for OpenLibety) in this link:https://openliberty.io/blog/2025/08/12/25.0.0.8.html[Blog Post].
+
 == Getting started
 
 To get O11y with OpenTelemetry up and running, we are using link:https://github.com/microprofile/microprofile-telemetry[MicroProfile Telemtry]. You can add just the MP Telemetry Spec, or simply include the whole MicroProfile Spec into your project:
@@ -18,14 +20,6 @@ In case of OpenLiberty you also have to active the corresponding feature:
 ----
 <!-- server.xml -->
 include::src/main/liberty/config/server.xml[tag=mp-feature,indent=0]
-----
-
-If you want to use OTEL API directly in your app, you also have to add the following dependency. Maybe this is not required in future releases of OpenLiberty and/or MicroProfile:
-
-[source,xml]
-----
-<!-- pom.xml -->
-include::pom.xml[tag=otel-api,indent=0]
 ----
 
 Now you already have tracing, metrics and even logging based on OpenTelemetry up and running with your OpenLiberty App.
@@ -56,13 +50,6 @@ In the following example, please note also the set of an Event into the current 
 [source,java]
 ----
 include::src/main/java/org/kore/jakartaee/otel/CutHandResource.java[tag=fun-with-baggage,indent=0]
-----
-
-On thing to mention is that die Baggage part in MP Telemetry is work in progress, so at the moment it is not specified exactly how to runtimes must propagate Baggage, so in case of OpenLiberty nothing is done automatically, so you have to create e.g. a ClientRequestFilter:
-
-[source,java]
-----
-include::src/main/java/org/kore/jakartaee/otel/BaggageClientRequestFilter.java[tag=filter,indent=0]
 ----
 
 == Instrumentation without MicroProfile Telemetry

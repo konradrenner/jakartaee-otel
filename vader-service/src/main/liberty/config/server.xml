@@ -5,7 +5,7 @@
     <!-- tag::mp-feature[] -->
     <featureManager>
         <feature>jakartaee-10.0</feature>
-        <feature>microProfile-7.0</feature>
+        <feature>microProfile-7.1</feature>
     </featureManager>
     <!-- end::mp-feature[] -->
 
