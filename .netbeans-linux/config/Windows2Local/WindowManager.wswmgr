@@ -3,10 +3,10 @@
 <windowmanager version="2.1">
     <main-window>
   <joined-properties
-   x="1712"
-   y="59"
-   width="1661"
-   height="1076"
+   x="1920"
+   y="0"
+   width="1920"
+   height="1080"
    relative-x="0.0"
    relative-y="0.0"
    relative-width="0.0"
