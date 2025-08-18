@@ -3,9 +3,9 @@
 <windowmanager version="2.1">
     <main-window>
   <joined-properties
-   x="1920"
-   y="0"
-   width="1920"
+   x="1963"
+   y="82"
+   width="1243"
    height="1080"
    relative-x="0.0"
    relative-y="0.0"
@@ -45,10 +45,13 @@
     <toolbar configuration="Standard" preferred-icon-size="24"/>
     <tc-list>
   <tc-id id="projectTabLogical_tc"/>
-  <tc-id id="output"/>
+  <tc-id id="MultiView-maven#002EpDED3B2CFtext#002Ehistory#007C"/>
+  <tc-id id="MultiView-xml#002Etex23F1BEEFtext#002Ehistory#007C"/>
   <tc-id id="projectTab_tc"/>
-  <tc-id id="NotificationCenterTopComponent"/>
+  <tc-id id="output"/>
   <tc-id id="navigatorTC"/>
+  <tc-id id="MultiView-java#002Eso2D0988CFtext#002Ehistory#007C"/>
+  <tc-id id="MultiView-java#002Eso10CA9CC1xt#002Ehistory#007C_1"/>
   <tc-id id="services"/>
     </tc-list>
 </windowmanager>
